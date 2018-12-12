@@ -7,6 +7,8 @@ import {AppComponent} from './app.component';
 import {StoreModule} from '@ngrx/store';
 import {simpleReducer} from "./simple.reducer";
 
+
+
 @NgModule({
   declarations: [
     AppComponent
